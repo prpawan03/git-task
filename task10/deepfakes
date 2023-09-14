@@ -1,0 +1,32 @@
+**DEEP FAKES**
+Deepfakes are synthetic media where a person in an image or video is swapped with another person’s likeness 1. In addition to audio manipulation, deepfakes can also be used for video manipulation.
+For instance, they can be used to create fake news videos or impersonate a person to deframe him.
+Deepfakes can enhance traditional fraud schemes like payment fraud, email hacking or money laundering. 
+Cybercriminals can use deepfakes to access valuable assets and data. More specifically, they can use deepfakes to gain unauthorized access to large databases of personal information 
+Deepfakes are a product of artificial intelligence and machine learning technologies. They use generative adversarial networks (GANs) to create realistic images and videos that are difficult to 
+distinguish from real ones . GANs are a type of neural network that consists of two parts: a forger and a detective. The forger creates fake images or videos, while the detective tries to distinguish
+between real and fake ones. The two parts work together to improve the quality of the generated images or videos .
+Deepfakes are created by training GANs on large datasets of images or videos. The more data the GAN has, the better it can generate realistic deepfakes. 
+However, this also means that deepfakes can be used to create convincing forgeries of people’s faces and voices, which can be used for malicious purposes.
+  
+Here are some of the positives of deepfake technology:
+
+  
+1.	 entertainment industry: Deepfakes can be used to bring back deceased actors or actresses in movies2. This can help create a more immersive experience for viewers and provide a new way to 
+enjoy classic films they can also help create animations and movies with reduced effort as they can do most of the work of the actors.
+2.	 education: Deepfakes can be used to create realistic simulations of historical events, which can help students better understand and visualize these events1. They can also be used 
+to create simulations of scientific experiments, which can help students learn about complex scientific concepts.
+3.	A tool for social good: Deepfakes can be used to create public service announcements or other educational content that is more engaging and memorable than traditional methods.
+  They can also be used to create realistic simulations of natural disasters or other emergencies, which can help emergency responders better prepare for these situations.
+4.	 art: Deepfakes can be used to create new forms of art, such as music videos or short films. They can also be used to create realistic animations or special effects in movies.
+5.	A tool for improving user interfaces: Deepfakes can be used to create more realistic avatars or chatbots, which can provide a more engaging and personalized experience for users
+
+In March 2019, the CEO of a UK-based energy firm received a phone call from his boss, the leader of the firm’s German parent company, ordering him to transfer €220,000 to a supplier in Hungary. 
+  The CEO recognized the “slight German accent and the melody” of his chief’s voice and followed the order to transfer the money within an hour. The caller tried several other times to get a 
+  second round of money, but by then the UK executive had grown suspicious and did not make any more transfers. The €220,000 was moved to Mexico and channeled to other accounts, and the
+    energy firm reported the incident to its insurance company, Euler Hermes Group SA.  the thieves used artificial intelligence to create a deepfake of the German executive’s voice.
+To combat the unethical use of deepfakes, researchers are developing new technologies that can detect them. For instance, Facebook has developed a tool called Reinforced Integrity Optimizer (RIO)
+that uses machine learning to detect deepfakes . Similarly, researchers at the University of California, Berkeley have developed a tool called FakeSpotter that uses machine learning to detect 
+  deepfakes in real-time .
+In conclusion, deepfakes are a product of advanced artificial intelligence and machine learning technologies. While they have many legitimate uses, they can also be used for malicious purposes. 
+  Researchers are developing new technologies to detect deepfakes and prevent their misuse.
